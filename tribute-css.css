@@ -1,0 +1,16 @@
+body {
+	font-family: monospace;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.jumbotron {
+  padding: 30px;
+}
+
+img {
+  padding: 30px;
+  width: 100%;
+}
